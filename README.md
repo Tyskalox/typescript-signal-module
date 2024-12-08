@@ -76,3 +76,5 @@ Initializes an empty `Signal` object.
 
 ## Example Usage
 
+You can check the example.ts file to see how this works.
+
